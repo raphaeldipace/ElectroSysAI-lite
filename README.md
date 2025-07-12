@@ -46,7 +46,7 @@ To enable the **AI assistant feature**, you need:
 
 ---
 
-##📘 Example Use Case
+## 📘 Example Use Case
 
 > Choose system [1] Single-phase, [2] Three-phase, [3] Transformer, [4] Transmission Line: 2
 > Enter line voltage (V): 220
