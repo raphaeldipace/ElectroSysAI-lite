@@ -1,4 +1,4 @@
-# ElectroSysAI ⚡🧠  
+# ElectroSysAI
 **Intelligent Electrical System Analyzer with Phasor and 3D Visualization**
 
 This project provides an advanced toolkit for analyzing power systems — including single-phase, three-phase, transformers, and transmission lines — with rich visualizations, AI suggestions (optional), and a modular architecture.
