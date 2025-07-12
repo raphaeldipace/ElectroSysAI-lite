@@ -59,6 +59,6 @@ To enable the **AI assistant feature**, you need:
 
 ## ✨ Author
 
-Developed by Raphael Di Pace
-GitHub: @raphaeldipace
+ - Developed by Raphael Di Pace
+ - GitHub: @raphaeldipace
 
